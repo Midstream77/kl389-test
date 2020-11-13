@@ -1,0 +1,1 @@
+Try to collect hearts as much as possible
